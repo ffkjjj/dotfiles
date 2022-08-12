@@ -14,7 +14,7 @@
     },
     "dark": {
       "name": "Dev theme",
-      "url": "assets:///Users/jessun/.logseq/plugins/logseq-dev-theme/custom.css",
+      "url": "assets:///home/jessun/.logseq/plugins/logseq-dev-theme/custom.css",
       "pid": "logseq-dev-theme",
       "group-first": true,
       "group-desc": "light & dark themes",
